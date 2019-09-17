@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "name": "Tom",
+      "age": "22",
+      "id": 5
+    },
+    {
+      "name": "Nisse",
+      "age": "21",
+      "id": 6
+    },
+    {
+      "name": "Hola",
+      "age": "43",
+      "id": 8
+    },
+    {
+      "name": "Pål Olsen",
+      "age": "40",
+      "id": 9
+    },
+    {
+      "name": "sds",
+      "age": "3",
+      "id": 10
+    },
+    {
+      "name": "sas",
+      "age": "3",
+      "id": 11
+    },
+    {
+      "name": "fffds",
+      "age": "3",
+      "id": 12
+    }
+  ]
+}
